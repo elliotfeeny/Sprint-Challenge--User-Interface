@@ -201,6 +201,8 @@ footer nav a {
     flex-wrap: wrap;
     justify-content: space-between;
     margin-bottom: 30px;
+    margin-top: 30px;
+ 
 }
 
 .midsection{
@@ -210,5 +212,16 @@ footer nav a {
     width: 350px;
     flex-wrap: wrap;
     justify-content: start;
+    border-bottom: 2px dotted black;
+}
+
+
+
+.midsection button{
+    margin: 10px 0px 10px 0px;
+}
+
+h3{
+    margin-top: 10px;
 }
 
